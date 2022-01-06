@@ -29,8 +29,7 @@ an simulation of pit viper hunting for prey (rodent) with the following rules :
 - Viper has the ability to detect heat differences and walk toward the highest temperature 
 - Rodent have body temperature of 37 degree celcius with 0 degree celcius for the environment temperature
 - Rodent walk randomly in the closed environment
-- Rodent temperature affect the surrounding environment temperature based on this equation
-<img src="https://bit.ly/3eYIskE" align="center" border="0" alt="site + \Delta site = site + r \Sigma^{8}_{i=1}(neighbor_i - site), \; with \; 0 < r < 0.125" width="469" height="21" />
+- Rodent temperature affect the surrounding environment temperature 
 
 ### Preview : 
 
