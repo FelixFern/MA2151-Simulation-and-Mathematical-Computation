@@ -22,7 +22,7 @@ Average Blur :
 
 ## 2. Pit Viper Simulation
 ### Library Used : Numpy and Matplotlib 
-an simulation of pit viper hunting for prey (rodent) with the following rules : 
+a simulation of pit viper hunting for prey (rodent) with the following rules : 
 - Viper and Rodent is placed in a closed environment in form of a N x N sized grid
 - This simulation used the reflecting boundary condition for the heat grid and the absorbing boundary condition for the main grid
 - Viper and Rodent move by using the moore neighbourhood which consist of 8 different direction (N, NE, S, SW, W, SE, E, NW)
